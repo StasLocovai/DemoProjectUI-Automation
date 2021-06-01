@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-01T16:34:01 IDT" name="Default suite" finished-at="2021-06-01T16:37:59 IDT" duration-ms="237848">
+    <groups>
+    </groups>
+    <test started-at="2021-06-01T16:34:01 IDT" name="Default test" finished-at="2021-06-01T16:37:59 IDT" duration-ms="237848">
+      <class name="Tests.TestRun">
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:01 IDT" name="beforeEachTest" finished-at="2021-06-01T16:34:07 IDT" duration-ms="5935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="CoursesPageMoreCoursesContentVerify()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:07 IDT" name="CoursesPageMoreCoursesContentVerify" finished-at="2021-06-01T16:34:16 IDT" duration-ms="8657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CoursesPageMoreCoursesContentVerify -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:16 IDT" name="afterEachTest" finished-at="2021-06-01T16:34:17 IDT" duration-ms="869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:17 IDT" name="beforeEachTest" finished-at="2021-06-01T16:34:22 IDT" duration-ms="4770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="HitechPageTextLinksVerify()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:22 IDT" name="HitechPageTextLinksVerify" finished-at="2021-06-01T16:34:36 IDT" duration-ms="14051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HitechPageTextLinksVerify -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:36 IDT" name="afterEachTest" finished-at="2021-06-01T16:34:37 IDT" duration-ms="923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:37 IDT" name="beforeEachTest" finished-at="2021-06-01T16:34:41 IDT" duration-ms="4611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="HomePageApplyForConsultationInputsAndSendBTN()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:41 IDT" name="HomePageApplyForConsultationInputsAndSendBTN" finished-at="2021-06-01T16:34:42 IDT" duration-ms="1124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageApplyForConsultationInputsAndSendBTN -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:42 IDT" name="afterEachTest" finished-at="2021-06-01T16:34:44 IDT" duration-ms="1234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:44 IDT" name="beforeEachTest" finished-at="2021-06-01T16:34:48 IDT" duration-ms="4548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="HomePageVerifyElementsClickability()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:34:48 IDT" name="HomePageVerifyElementsClickability" finished-at="2021-06-01T16:35:27 IDT" duration-ms="39138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageVerifyElementsClickability -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:35:27 IDT" name="afterEachTest" finished-at="2021-06-01T16:35:28 IDT" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:35:28 IDT" name="beforeEachTest" finished-at="2021-06-01T16:35:33 IDT" duration-ms="4747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="QAcourseFooterLinksClickabilityFunctional()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:35:33 IDT" name="QAcourseFooterLinksClickabilityFunctional" finished-at="2021-06-01T16:35:39 IDT" duration-ms="6463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QAcourseFooterLinksClickabilityFunctional -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:35:39 IDT" name="afterEachTest" finished-at="2021-06-01T16:35:40 IDT" duration-ms="889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:35:40 IDT" name="beforeEachTest" finished-at="2021-06-01T16:35:45 IDT" duration-ms="4710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="QAcoursePageFaQFunctional()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:35:45 IDT" name="QAcoursePageFaQFunctional" finished-at="2021-06-01T16:35:50 IDT" duration-ms="4919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QAcoursePageFaQFunctional -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:35:50 IDT" name="afterEachTest" finished-at="2021-06-01T16:35:51 IDT" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:35:51 IDT" name="beforeEachTest" finished-at="2021-06-01T16:35:56 IDT" duration-ms="4847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="QaCoursePageButtonsFunctionality()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:35:56 IDT" name="QaCoursePageButtonsFunctionality" finished-at="2021-06-01T16:35:59 IDT" duration-ms="3028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QaCoursePageButtonsFunctionality -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:35:59 IDT" name="afterEachTest" finished-at="2021-06-01T16:36:00 IDT" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:00 IDT" name="beforeEachTest" finished-at="2021-06-01T16:36:04 IDT" duration-ms="4525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="applyFromNextAndPreviousCourses()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:04 IDT" name="applyFromNextAndPreviousCourses" finished-at="2021-06-01T16:36:15 IDT" duration-ms="10880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyFromNextAndPreviousCourses -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:15 IDT" name="afterEachTest" finished-at="2021-06-01T16:36:16 IDT" duration-ms="851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:16 IDT" name="beforeEachTest" finished-at="2021-06-01T16:36:21 IDT" duration-ms="4481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="applyToAutomationHybridCourse()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:21 IDT" name="applyToAutomationHybridCourse" finished-at="2021-06-01T16:36:27 IDT" duration-ms="6779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyToAutomationHybridCourse -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:27 IDT" name="afterEachTest" finished-at="2021-06-01T16:36:28 IDT" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:28 IDT" name="beforeEachTest" finished-at="2021-06-01T16:36:33 IDT" duration-ms="4655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="chatBotSendMsg()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:33 IDT" name="chatBotSendMsg" finished-at="2021-06-01T16:36:54 IDT" duration-ms="20661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chatBotSendMsg -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:54 IDT" name="afterEachTest" finished-at="2021-06-01T16:36:54 IDT" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:54 IDT" name="beforeEachTest" finished-at="2021-06-01T16:36:59 IDT" duration-ms="4520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="checkPopularCoursesURlWithHttpConnectionAPI()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:36:59 IDT" name="checkPopularCoursesURlWithHttpConnectionAPI" finished-at="2021-06-01T16:37:03 IDT" duration-ms="4191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPopularCoursesURlWithHttpConnectionAPI -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:03 IDT" name="afterEachTest" finished-at="2021-06-01T16:37:04 IDT" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:04 IDT" name="beforeEachTest" finished-at="2021-06-01T16:37:09 IDT" duration-ms="4709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="exploreAutomationSyllabuses()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:09 IDT" name="exploreAutomationSyllabuses" finished-at="2021-06-01T16:37:16 IDT" duration-ms="7674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exploreAutomationSyllabuses -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:16 IDT" name="afterEachTest" finished-at="2021-06-01T16:37:17 IDT" duration-ms="866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:17 IDT" name="beforeEachTest" finished-at="2021-06-01T16:37:22 IDT" duration-ms="4470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="getContentThroughNavBar()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:22 IDT" name="getContentThroughNavBar" finished-at="2021-06-01T16:37:42 IDT" duration-ms="20490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContentThroughNavBar -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:42 IDT" name="afterEachTest" finished-at="2021-06-01T16:37:43 IDT" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:43 IDT" name="beforeEachTest" finished-at="2021-06-01T16:37:48 IDT" duration-ms="4666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="integrations()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:48 IDT" name="integrations" finished-at="2021-06-01T16:37:51 IDT" duration-ms="3581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- integrations -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:51 IDT" name="afterEachTest" finished-at="2021-06-01T16:37:52 IDT" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:52 IDT" name="beforeEachTest" finished-at="2021-06-01T16:37:57 IDT" duration-ms="4531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="quickContactSanity()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:57 IDT" name="quickContactSanity" finished-at="2021-06-01T16:37:58 IDT" duration-ms="1725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quickContactSanity -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:Tests.TestRun@1613674b]" started-at="2021-06-01T16:37:58 IDT" name="afterEachTest" finished-at="2021-06-01T16:37:59 IDT" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+      </class> <!-- Tests.TestRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
